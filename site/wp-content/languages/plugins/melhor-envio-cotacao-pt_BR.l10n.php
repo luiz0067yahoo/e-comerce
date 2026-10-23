@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.1.0','translation-revision-date'=>'2026-04-13 01:41:18+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - Melhor Envio - Stable (latest release)','language'=>'pt_BR','messages'=>['https://melhorenvio.com.br'=>'https://melhorenvio.com.br','Rastreio'=>'Rastreio','Token'=>'Token','Configurações'=>'Configurações','Meus pedidos'=>'Meus pedidos','Melhor Envio'=>'Melhor Envio']];

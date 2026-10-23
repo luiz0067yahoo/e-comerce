@@ -1,0 +1,45 @@
+# Translation of Plugins - Melhor Envio - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Melhor Envio - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-04-13 01:41:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Melhor Envio - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: melhor-envio-beta.php
+msgid "https://melhorenvio.com.br"
+msgstr "https://melhorenvio.com.br"
+
+#: legacy/Services/TrackingService.php:94
+msgid "Rastreio"
+msgstr "Rastreio"
+
+#: legacy/includes/class-admin.php:43
+msgid "Token"
+msgstr "Token"
+
+#: legacy/includes/class-admin.php:42 melhor-envio-beta.php:132
+msgid "Configurações"
+msgstr "Configurações"
+
+#: legacy/includes/class-admin.php:41
+msgid "Meus pedidos"
+msgstr "Meus pedidos"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: melhor-envio-beta.php
+#: src/Http/Controllers/Order/OrderBulkImportController.php:119
+#: src/Services/Shipping/MelhorEnvioShippingService.php:25
+#: src/Services/Shipping/MelhorEnvioShippingService.php:29
+#: src/Services/Shipping/MelhorEnvioShippingService.php:51
+#: src/Services/Shipping/MelhorEnvioShippingService.php:83
+msgid "Melhor Envio"
+msgstr "Melhor Envio"
